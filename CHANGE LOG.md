@@ -1,5 +1,10 @@
 # FlipClock.js
 
+#### 0.7.9
+##### 07/08/2020
+
+- (Feature) Added Swahili translations
+
 #### 0.7.8
 ##### 12/12/2014
 
